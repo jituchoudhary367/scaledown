@@ -255,7 +255,7 @@ pytest -v
 ## 📖 Links & Resources
 
 - **Homepage**: [https://scaledown.ai](https://scaledown.ai)
-- **Documentation**: [https://docs.scaledown.ai](https://docs.scaledown.ai)
+- **Technical Documentation**: [DOCUMENTATION.md](DOCUMENTATION.md) — Detailed architecture, agent swarms, and benchmarks.
 - **Support**: Open an issue on GitHub for technical assistance.
 
 ---
