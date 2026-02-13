@@ -170,7 +170,7 @@ with st.sidebar:
     
     st.subheader("Configuration")
     
-    api_key_status = "✅ Configured" if os.getenv("OPENROUTER_API_KEY") else "❌ Missing"
+    api_key_status = "✅ Configured" if os.getenv("OPENROUTER_API_KEY") or os.getenv("OPENAI_API_KEY") else "❌ Missing"
     sd_key_status = "✅ Configured" if os.getenv("SCALEDOWN_API_KEY") else "⚠️ Optional (Missing)"
     
     st.text(f"LLM API: {api_key_status}")
