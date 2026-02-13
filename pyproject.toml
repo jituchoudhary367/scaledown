@@ -22,6 +22,7 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "streamlit>=1.30.0",
     "duckduckgo-search>=4.0.0",
+    "ddgs>=0.1.0",
     "fpdf2>=2.7.0",
     "langgraph>=0.0.10",
 ]
