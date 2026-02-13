@@ -1,6 +1,6 @@
+python-dotenv
 duckduckgo-search
 fpdf2
-python-dotenv
 langgraph
 langchain
 langchain-core
@@ -11,7 +11,5 @@ pydantic
 requests
 typing-extensions
 urllib3
-fpdf2
-python-dotenv
 python-dateutil
 langgraph-checkpoint
