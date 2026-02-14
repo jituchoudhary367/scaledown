@@ -102,7 +102,7 @@ streamlit run deep-research-agent/app.py
 
 ### ☁️ Cloud Deployment Protocol
 
-1. **GitHub Linkage**: Connect your CI/CD to `jituchoudhary367/scaledown`.
+1. **GitHub Linkage**: Connect your streamlit cloud`jituchoudhary367/scaledown`.
 2. **Secrets Injection**:
    - `OPENROUTER_API_KEY`: Required for LLM inference.
    - `SCALEDOWN_API_KEY`: Required for Neural Compression.
